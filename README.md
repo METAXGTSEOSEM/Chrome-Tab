@@ -6,7 +6,11 @@ Modern Chrome New Tab Dashboard Extension
 
 ## Preview
 
-![Preview](./assets/preview-1.png)
+![UI 1](./assets/ui-1.png)
+
+![UI 2](./assets/ui-2.png)
+
+![UI 3](./assets/ui-3.png)
 
 ---
 
@@ -14,48 +18,30 @@ Modern Chrome New Tab Dashboard Extension
 
 ### Modern Dashboard
 
-Clean and modern new tab experience.
-
-![Dashboard](./assets/feature-ui.png)
-
----
+Clean and modern Chrome new tab experience.
 
 ### Quick Access
 
-Fast access to your favorite websites and tools.
+Fast access to websites, tools, and productivity apps.
 
-![Shortcuts](./assets/feature-shortcuts.png)
+### Minimal UI
 
----
-
-### Productivity Widgets
-
-Integrated widgets for better workflow.
-
-![Widgets](./assets/preview-2.png)
+Simple, responsive, and distraction-free interface.
 
 ---
 
 ## Installation
 
-1. Download this repository
-2. Open Chrome Extensions
-3. Enable Developer Mode
-4. Click Load unpacked
-5. Select the extension folder
-
----
-
-## Project Structure
+1. Open Chrome
+2. Visit:
 
 ```text
-extension/
-├── manifest.json
-├── app.js
-├── style.css
-├── icons/
-└── assets/
+chrome://extensions/
 ```
+
+3. Enable Developer Mode
+4. Click "Load unpacked"
+5. Select the extension folder
 
 ---
 
