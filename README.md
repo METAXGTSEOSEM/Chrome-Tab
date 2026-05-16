@@ -53,7 +53,6 @@ chrome://extensions/
 - CSS
 
 ---
-支持社区：https://linux.do/
 
 ## License
 
